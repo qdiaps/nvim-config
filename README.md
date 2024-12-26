@@ -1,9 +1,9 @@
 # nvim-config
 
 <div>
-    <img src="img/photo1.jpg" width="200">
-    <img src="img/photo2.jpg" width="200">
-    <img src="img/photo3.jpg" width="200">
+    <img src="img/photo1.jpg" width="350">
+    <img src="img/photo2.jpg" width="350">
+    <img src="img/photo3.jpg" width="350">
 </div>
 
 # Plugins
